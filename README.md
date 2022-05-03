@@ -25,12 +25,13 @@
   <img align="center" alt="Jake" height="50" width="60" src="https://img.icons8.com/doodle/344/jake.svg">
   <img align="right" src="https://c.tenor.com/jNi9LjM-dAQAAAAC/fire-force-anime.gif" height="200" width="350"> 
 
- </div> 
-</div>  
+ </div>
+  
+ </div>
   
 
  <div align="center"> 
-   <div style="display: inline_block"> 
+   <div style="display: inline_block">
 
    <p align="center">
 
