@@ -30,7 +30,7 @@
   
 
  <div align="center"> 
-   <div style="display: inline_block">
+   <div style="display: inline_block"> 
 
    <p align="center">
 
