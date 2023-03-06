@@ -2,7 +2,7 @@
 
 
 - ✉ My email : cauacastrooliveira@gmail.com
-- 👨‍💻 Studying C#, Python and HTML 
+- 👨‍💻 Studying Java, React 
 
 ##
 
