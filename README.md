@@ -16,7 +16,7 @@
 
   ##
  <div align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
 
   <img align="center" alt="Cauã-html" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cauã-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
